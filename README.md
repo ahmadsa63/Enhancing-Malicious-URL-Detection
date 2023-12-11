@@ -1,4 +1,4 @@
-# Enhancing-Malicious-URL-Detection
+# Enhancing Malicious URL Detection: A Novel Framework Leveraging Priority Coefficient and Feature Evaluation
 The title of paper is : Enhancing Malicious URL Detection: A Novel Framework Leveraging Priority Coefficient and Feature Evaluation. The dataset I and II and codes are uploded here. 
 The proposed malicious URL detection framework utilizes a training dataset that includes **6000 samples**. In this research, this dataset is called dataset I. The 2000 malicious URLs were collected from a malicious URL dataset in Kaggle that was collected from 2020 to 2022, and 4000 benign samples were collected from the top 4000 site links of Alexa in 2022.
 
